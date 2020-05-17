@@ -8,7 +8,8 @@ javascript: {
   var st = document.createElement('link'); 
   st.rel = 'stylesheet'; 
   st.href = 'https://kvisaz.github.io/dark/style.css';
-  document.head.appendChild(st);}
+  document.head.appendChild(st);
+  }
 ```
 
 3. Зайдя на сайт - нажмите закладку. Она подключит css из урла [https://kvisaz.github.io/dark/style.css](https://kvisaz.github.io/dark/style.css)
